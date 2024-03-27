@@ -1,0 +1,21 @@
+[
+  {
+    "role": "Javascript",
+    
+    "experiences": ["Good understanding of ES6 features",
+    "Good knowledge of Arrays, Objects and String",
+    "Good understanding of Functions",
+   " Good understanding of Dom Manipulation",
+    "Good understanding of Asynchronous"]
+  
+  },
+  {
+    "role": "React js",
+   
+    "experiences": ["Good understanding of Component-Based Development", 
+   " Good understanding of State management",
+     "Knowledgeable in Context API and routing"]
+   
+  }
+ 
+]

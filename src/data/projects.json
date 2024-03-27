@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Employee Management System",
+    "imageSrc": "projects/project.png",
+    "description": "mplemented CRUD functionality for seamless management of employee records ",
+    "skills": ["HTML", "CSS", "Javascript","React"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Me and My Family",
+    "imageSrc": "projects/project.png",
+    "description": "It's staticweb page where we can see the content anddetails. With help of HTML and CSS the wholewebsiteis created.",
+    "skills": ["HTML","CSS"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": " Virtual Trainer using Machine Learning",
+    "imageSrc": "projects/project.png",
+    "description": "The aim of a Virtual trainer is to enable the customers to exercise without the help of any trainers.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]
